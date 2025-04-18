@@ -1,0 +1,2 @@
+SELECT CAST(AVG(price) AS DECIMAL(5,2)) 
+FROM products;
